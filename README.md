@@ -22,7 +22,6 @@ This repository contains my digital portfolio for the CSE0001 Digital Literacy c
     <img width="1477" height="430" alt="image" src="https://github.com/user-attachments/assets/acf3d85e-1af5-460d-b27c-85064cec2f6b" />
     LinkedIn
     <img width="1009" height="528" alt="image" src="https://github.com/user-attachments/assets/6069c508-d93c-47ba-8d71-0c452241b4f1" />
-    <img width="998" height="307" alt="image" src="https://github.com/user-attachments/assets/da465fff-745d-4387-9c47-be1fc133b0cd" />
 
     Kaggle
     <img width="822" height="327" alt="image" src="https://github.com/user-attachments/assets/57a26cf3-f831-4304-a005-58350e31b8a9" />
@@ -36,9 +35,8 @@ This repository contains my digital portfolio for the CSE0001 Digital Literacy c
     <img width="1029" height="409" alt="image" src="https://github.com/user-attachments/assets/856fbac4-f623-4d8b-913c-6f184a9b654f" />
 
 
-    Part B: google form and response
+    Part B: google form 
     <img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/d933b9f4-50db-40e7-a137-ae8dcdf23764" />
-    <img width="723" height="697" alt="image" src="https://github.com/user-attachments/assets/faa8ee0d-914e-4d6e-b246-9654d2d3bc89" />
 
 
 
