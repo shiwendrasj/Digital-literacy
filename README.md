@@ -40,10 +40,18 @@ This repository contains my digital portfolio for the CSE0001 Digital Literacy c
     <img width="723" height="697" alt="image" src="https://github.com/user-attachments/assets/faa8ee0d-914e-4d6e-b246-9654d2d3bc89" />
 
 
+
+
+    
+
+
 * **Task 4: Professional Email & Etiquette Guide** * *Description:* Here, I drafted two emails; one requesting a deadline extension for an assignment submission from a professor, and the other for showing interset in summer internship opportunity to a internship coordinator at a company. It also includes a Social-Media Checklist showing the right way of using Social Media for college students.
   * *Location:* `Task-4-email-etiquette/`
  
     Part A: Email etiquettes
+
+
+
     
     <img width="721" height="808" alt="image" src="https://github.com/user-attachments/assets/f1318405-6c90-49b1-bd1f-0817676e99ca" />
     <img width="1288" height="753" alt="image" src="https://github.com/user-attachments/assets/e33a858a-5588-4118-99e4-4be2364a295b" />
@@ -56,7 +64,8 @@ This repository contains my digital portfolio for the CSE0001 Digital Literacy c
 * **Task 5: Cybercrime Awareness & Prevention** * *Description:* Here, I researched and wrote a case study on Phishing, one of the most common cybercrimes generally targeting college students.I also prepared prevention checklist with some UPI-specific safety tips and official reporting channels including -cybercrime.gov.in and Helpline 1930.
 
   Part A: case study
-  <img width="1283" height="781" alt="image" src="https://github.com/user-attachments/assets/bf6e575e-d620-4972-909d-0f666b8c8cbe" />
+  <img width="1330" height="745" alt="image" src="https://github.com/user-attachments/assets/cb3ea6d5-2afe-44eb-948f-d6dbf8de70ff" />
+
   
   Part B: Prevention checklist
   <img width="1292" height="678" alt="image" src="https://github.com/user-attachments/assets/e9a24a3e-57ea-4cb9-a1e1-2d84042df1ed" />
