@@ -1,5 +1,3 @@
-<img width="854" height="702" alt="image" src="https://github.com/user-attachments/assets/dafc84f5-aced-4cf6-968c-360e49ad3aa8" /># CSE0001 - Digital Literacy Project Portfolio
-
 ## Student Details
 * **Name:** Shiwendra Shiwam Jha
 * **Registration Number:** 25BAI10357
