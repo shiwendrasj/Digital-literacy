@@ -13,7 +13,7 @@ This repository contains my digital portfolio for the CSE0001 Digital Literacy c
 ## Module Summaries & Directory
 * **Task 1: Digital Literacy Awareness Infographic** * *Description:* Here, I created a one-page infographic using Canva covering the meaning of digital literacy, safe internet practices, and professional online presence.
   * *Location:* Task 1 - infographic.png
-    <img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/c636a32a-4006-4220-866b-7aa67f4e4843" />
+    <img width="482" height="1024" alt="Task 1 - infographic" src="https://github.com/user-attachments/assets/f675f036-0d47-48ac-a9e7-f4bced46e0f5" />
 
 
 * **Task 2: Student Digital Portfolio** * *Description:* Here, I Set up professional profiles on GitHub, LinkedIn, and Kaggle. Each platform serves a different purpose, like GitHub for code and projects, LinkedIn for career networking, and Kaggle for data science practice. These profiles will grow throughout my four years of study.
