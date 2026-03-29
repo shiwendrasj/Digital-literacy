@@ -18,18 +18,22 @@ This repository contains my digital portfolio for the CSE0001 Digital Literacy c
 
 * **Task 2: Student Digital Portfolio** * *Description:* Here, I Set up professional profiles on GitHub, LinkedIn, and Kaggle. Each platform serves a different purpose, like GitHub for code and projects, LinkedIn for career networking, and Kaggle for data science practice. These profiles will grow throughout my four years of study.
   * *Location:* `Task-2 portfolio/`
-    Github <img width="1477" height="430" alt="image" src="https://github.com/user-attachments/assets/acf3d85e-1af5-460d-b27c-85064cec2f6b" />
-    LinkedIn <img width="1009" height="528" alt="image" src="https://github.com/user-attachments/assets/6069c508-d93c-47ba-8d71-0c452241b4f1" />
-              <img width="998" height="307" alt="image" src="https://github.com/user-attachments/assets/da465fff-745d-4387-9c47-be1fc133b0cd" />
+    Github
+    <img width="1477" height="430" alt="image" src="https://github.com/user-attachments/assets/acf3d85e-1af5-460d-b27c-85064cec2f6b" />
+    LinkedIn
+    <img width="1009" height="528" alt="image" src="https://github.com/user-attachments/assets/6069c508-d93c-47ba-8d71-0c452241b4f1" />
+    <img width="998" height="307" alt="image" src="https://github.com/user-attachments/assets/da465fff-745d-4387-9c47-be1fc133b0cd" />
 
-    Kaggle <img width="822" height="327" alt="image" src="https://github.com/user-attachments/assets/57a26cf3-f831-4304-a005-58350e31b8a9" />
+    Kaggle
+    <img width="822" height="327" alt="image" src="https://github.com/user-attachments/assets/57a26cf3-f831-4304-a005-58350e31b8a9" />
 
 
 * **Task 3: Coding & Collaboration Platforms** * *Description:* Here, I completed the HackerEarth's beginner challenge, and also bulit an Digital Literacy Awareness Quiz using Google Forms. And also created an attached Google Sheets for the collcection of responses. The link to that is given below:- 
   * *Google Form Link:* [https://docs.google.com/forms/d/e/1FAIpQLScG7mOHhyzdbb4_cLjIKbwFTYJjp2miiw8rXlIEBpSmubEovg/viewform?usp=publish-editor]
   * *Location:* `Task-3 platforms/`
     Part A: Hackerearth
-    <img width="807" height="898" alt="image" src="https://github.com/user-attachments/assets/46c6d29e-186a-4507-83fe-a3abe0baa0d9" />
+    <img width="1029" height="409" alt="image" src="https://github.com/user-attachments/assets/856fbac4-f623-4d8b-913c-6f184a9b654f" />
+
 
     Part B: google form and response
     <img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/d933b9f4-50db-40e7-a137-ae8dcdf23764" />
@@ -40,10 +44,12 @@ This repository contains my digital portfolio for the CSE0001 Digital Literacy c
   * *Location:* `Task-4-email-etiquette/`
  
     Part A: Email etiquettes
+    
     <img width="721" height="808" alt="image" src="https://github.com/user-attachments/assets/f1318405-6c90-49b1-bd1f-0817676e99ca" />
     <img width="1288" height="753" alt="image" src="https://github.com/user-attachments/assets/e33a858a-5588-4118-99e4-4be2364a295b" />
     
     Part B: Social media Do's and Don'ts
+    
     <img width="1271" height="335" alt="image" src="https://github.com/user-attachments/assets/04b03a71-b3a3-4fa0-ba7c-8fd345e26804" />
 
 
@@ -51,8 +57,9 @@ This repository contains my digital portfolio for the CSE0001 Digital Literacy c
 
   Part A: case study
   <img width="1283" height="781" alt="image" src="https://github.com/user-attachments/assets/bf6e575e-d620-4972-909d-0f666b8c8cbe" />
+  
   Part B: Prevention checklist
-  ![Uploading image.png…]()
+  <img width="1292" height="678" alt="image" src="https://github.com/user-attachments/assets/e9a24a3e-57ea-4cb9-a1e1-2d84042df1ed" />
 
 
 ## Final Report
