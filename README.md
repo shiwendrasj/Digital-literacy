@@ -31,6 +31,7 @@ This repository contains my digital portfolio for the CSE0001 Digital Literacy c
 * **Task 3: Coding & Collaboration Platforms** * *Description:* Here, I completed the HackerEarth's beginner challenge, and also bulit an Digital Literacy Awareness Quiz using Google Forms. And also created an attached Google Sheets for the collcection of responses. The link to that is given below:- 
   * *Google Form Link:* [https://docs.google.com/forms/d/e/1FAIpQLScG7mOHhyzdbb4_cLjIKbwFTYJjp2miiw8rXlIEBpSmubEovg/viewform?usp=publish-editor]
   * *Location:* `Task-3 platforms/`
+ 
     Part A: Hackerearth
     <img width="1029" height="409" alt="image" src="https://github.com/user-attachments/assets/856fbac4-f623-4d8b-913c-6f184a9b654f" />
 
