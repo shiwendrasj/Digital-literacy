@@ -1,4 +1,4 @@
-# CSE0001 - Digital Literacy Project Portfolio
+<img width="854" height="702" alt="image" src="https://github.com/user-attachments/assets/dafc84f5-aced-4cf6-968c-360e49ad3aa8" /># CSE0001 - Digital Literacy Project Portfolio
 
 ## Student Details
 * **Name:** Shiwendra Shiwam Jha
@@ -55,14 +55,29 @@ This repository contains my digital portfolio for the CSE0001 Digital Literacy c
   * *Location:* `Task-4-email-etiquette/`
  
     Part A: Email etiquettes
+
+
+
+
+
     <img width="708" height="676" alt="image" src="https://github.com/user-attachments/assets/970ee525-9272-4a4a-9a60-7e210b37cf12" />
+
+
+
+
+
+
+
+
 
     <img width="720" height="814" alt="image" src="https://github.com/user-attachments/assets/a8a8af54-b0bd-4758-99df-9db35d4e969f" />
 
     
     Part B: Social media Do's and Don'ts
     
-    <img width="1271" height="335" alt="image" src="https://github.com/user-attachments/assets/04b03a71-b3a3-4fa0-ba7c-8fd345e26804" />
+    <img width="854" height="702" alt="image" src="https://github.com/user-attachments/assets/479cbb37-2751-4b08-8c70-2430303949f1" />
+
+
 
 
 * **Task 5: Cybercrime Awareness & Prevention** * *Description:* Here, I researched and wrote a case study on Phishing, one of the most common cybercrimes generally targeting college students.I also prepared prevention checklist with some UPI-specific safety tips and official reporting channels including -cybercrime.gov.in and Helpline 1930.
