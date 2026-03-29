@@ -19,12 +19,13 @@ This repository contains my digital portfolio for the CSE0001 Digital Literacy c
 * **Task 2: Student Digital Portfolio** * *Description:* Here, I Set up professional profiles on GitHub, LinkedIn, and Kaggle. Each platform serves a different purpose, like GitHub for code and projects, LinkedIn for career networking, and Kaggle for data science practice. These profiles will grow throughout my four years of study.
   * *Location:* `Task-2 portfolio/`
     Github
-    <img width="1477" height="430" alt="image" src="https://github.com/user-attachments/assets/acf3d85e-1af5-460d-b27c-85064cec2f6b" />
+    <img width="1444" height="693" alt="image" src="https://github.com/user-attachments/assets/2b4d9882-974a-402d-9a03-15d766446dce" />
+
     LinkedIn
-    <img width="1009" height="528" alt="image" src="https://github.com/user-attachments/assets/6069c508-d93c-47ba-8d71-0c452241b4f1" />
+    <img width="1247" height="655" alt="image" src="https://github.com/user-attachments/assets/48cf7cb8-e507-461e-a7f9-68a39f6dab8b" />
 
     Kaggle
-    <img width="822" height="327" alt="image" src="https://github.com/user-attachments/assets/57a26cf3-f831-4304-a005-58350e31b8a9" />
+    <img width="1456" height="424" alt="image" src="https://github.com/user-attachments/assets/7e55ca45-60b2-4f86-ba28-1b34aca50f74" />
 
 
 * **Task 3: Coding & Collaboration Platforms** * *Description:* Here, I completed the HackerEarth's beginner challenge, and also bulit an Digital Literacy Awareness Quiz using Google Forms. And also created an attached Google Sheets for the collcection of responses. The link to that is given below:- 
@@ -35,7 +36,13 @@ This repository contains my digital portfolio for the CSE0001 Digital Literacy c
     <img width="1029" height="409" alt="image" src="https://github.com/user-attachments/assets/856fbac4-f623-4d8b-913c-6f184a9b654f" />
 
 
-    Part B: google form 
+    Part B: google form
+ 
+    
+    <img width="807" height="898" alt="image" src="https://github.com/user-attachments/assets/c09bba52-8ebb-4fa4-b37a-34121b9f54e0" />
+ 
+    
+
     <img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/d933b9f4-50db-40e7-a137-ae8dcdf23764" />
 
 
@@ -48,12 +55,10 @@ This repository contains my digital portfolio for the CSE0001 Digital Literacy c
   * *Location:* `Task-4-email-etiquette/`
  
     Part A: Email etiquettes
+    <img width="708" height="676" alt="image" src="https://github.com/user-attachments/assets/970ee525-9272-4a4a-9a60-7e210b37cf12" />
 
+    <img width="720" height="814" alt="image" src="https://github.com/user-attachments/assets/a8a8af54-b0bd-4758-99df-9db35d4e969f" />
 
-
-    
-    <img width="721" height="808" alt="image" src="https://github.com/user-attachments/assets/f1318405-6c90-49b1-bd1f-0817676e99ca" />
-    <img width="1288" height="753" alt="image" src="https://github.com/user-attachments/assets/e33a858a-5588-4118-99e4-4be2364a295b" />
     
     Part B: Social media Do's and Don'ts
     
